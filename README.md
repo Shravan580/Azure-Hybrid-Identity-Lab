@@ -110,6 +110,7 @@ Screenshots/
 
 <img width="1872" height="1077" alt="image" src="https://github.com/user-attachments/assets/f828d7c0-44ae-4691-9dd0-b94421361474" />
 
+
 #  Active Directory Users
 
 <img width="1043" height="898" alt="image" src="https://github.com/user-attachments/assets/3a6b362f-c046-4476-94f3-8f63e63da64f" />
@@ -118,9 +119,11 @@ Screenshots/
 
 <img width="1075" height="901" alt="image" src="https://github.com/user-attachments/assets/042568b8-1ada-4d0f-be0c-f3f41a3662b4" />
 
+
 # Organizational Units
 
 <img width="252" height="661" alt="image" src="https://github.com/user-attachments/assets/1350d0e1-cca1-4376-b788-6da6aa2c79c2" />
+
 
 
 # Security Groups
@@ -128,17 +131,21 @@ Screenshots/
 <img width="1061" height="558" alt="image" src="https://github.com/user-attachments/assets/9c6dd391-8adb-4cd3-8a12-85d18ba82c6c" />
 
 
+
 # Group Policy Management
 
 <img width="1390" height="887" alt="image" src="https://github.com/user-attachments/assets/a58eefc6-29ad-4bd7-a3e4-2f15271a8b60" />
+
 
 # Provisioning Agent
 
 <img width="1073" height="732" alt="Screenshot 2026-11-01 181212" src="https://github.com/user-attachments/assets/de76dc4f-7cef-433d-b601-59cade1c4af1" />
 
+
 # Cloud Sync Configuration 
 
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/b94a9c7b-a074-4862-9eae-55455a5d2447"/>
+
 
 
 # Learning Outcome
